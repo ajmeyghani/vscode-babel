@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/main.js"],"names":["c","console","log"],"mappings":";;AAAA;;AACA,IAAMA,IAAI,cAAV;AACAC,QAAQC,GAAR,CAAYF,CAAZ","file":"main.js","sourcesContent":["import {Car} from './car';\nconst c = new Car();\nconsole.log(c);\n"]}
